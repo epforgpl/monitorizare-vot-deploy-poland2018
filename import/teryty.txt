@@ -1,0 +1,331 @@
+146510 - Śródmieście
+146519 - Żoliborz
+146502 - Bemowo
+146503 - Białołęka
+146504 - Bielany
+141907 - gm. Łąck
+140306 - gm. Łaskarzew
+143305 - gm. Łochów
+143205 - gm. Łomianki
+141002 - gm. Łosice
+141507 - gm. Łyse
+142405 - gm. Świercze
+140506 - gm. Żabia Wola
+140314 - gm. Żelechów
+143706 - gm. Żuromin
+141602 - gm. Andrzejewo
+140602 - gm. Błędów
+143201 - gm. Błonie
+142003 - gm. Baboszewo
+140503 - gm. Baranów
+141501 - gm. Baranowo
+140601 - gm. Belsk Duży
+140101 - gm. Białobrzegi
+143701 - gm. Bieżuń
+142902 - gm. Bielany
+141901 - gm. Bielsk
+141902 - gm. Bodzanów
+141603 - gm. Boguty-Pianki
+142301 - gm. Borkowice
+140303 - gm. Borowie
+143501 - gm. Brańszczyk
+142802 - gm. Brochów
+141604 - gm. Brok
+141903 - gm. Brudzeń Duży
+142103 - gm. Brwinów
+141904 - gm. Bulkowo
+141204 - gm. Cegłów
+141703 - gm. Celestynów
+142903 - gm. Ceranów
+143001 - gm. Chlewiska
+142202 - gm. Chorzele
+140901 - gm. Chotcza
+140603 - gm. Chynów
+140202 - gm. Ciechanów
+140902 - gm. Ciepielów
+141502 - gm. Czarnia
+142203 - gm. Czernice Borowe
+142004 - gm. Czerwińsk nad Wisłą
+141503 - gm. Czerwin
+141102 - gm. Czerwonka
+141402 - gm. Czosnów
+143405 - gm. Dąbrówka
+141205 - gm. Dębe Wielkie
+143502 - gm. Długosiodło
+141206 - gm. Dobre
+142601 - gm. Domanice
+141905 - gm. Drobin
+142005 - gm. Dzierzążnia
+141302 - gm. Dzierzgowo
+141801 - gm. Góra Kalwaria
+140305 - gm. Górzno
+142502 - gm. Gózd
+141906 - gm. Gąbin
+140702 - gm. Głowaczów
+140701 - gm. Garbatka-Letnisko
+140304 - gm. Garwolin
+142302 - gm. Gielniów
+140203 - gm. Glinojeck
+140703 - gm. Gniewoszów
+140204 - gm. Gołymin-Ośrodek
+140402 - gm. Gostynin
+140604 - gm. Goszczyn
+141504 - gm. Goworowo
+142702 - gm. Gozdowo
+140605 - gm. Grójec
+143302 - gm. Grębków
+140704 - gm. Grabów nad Pilicą
+140504 - gm. Grodzisk Mazowiecki
+140205 - gm. Grudusk
+142401 - gm. Gzy
+141207 - gm. Halinów
+141001 - gm. Huszlew
+142803 - gm. Iłów
+142503 - gm. Iłża
+143202 - gm. Izabelin
+140802 - gm. Jabłonna
+142904 - gm. Jabłonna Lacka
+143406 - gm. Jadów
+140505 - gm. Jaktorów
+141208 - gm. Jakubów
+140606 - gm. Jasieniec
+143002 - gm. Jastrząb
+142504 - gm. Jastrzębia
+142505 - gm. Jedlińsk
+142506 - gm. Jedlnia-Letnisko
+142204 - gm. Jednorożec
+142006 - gm. Joniec
+141209 - gm. Kałuszyn
+141505 - gm. Kadzidło
+143203 - gm. Kampinos
+141704 - gm. Karczew
+141103 - gm. Karniewo
+143601 - gm. Kazanów
+143407 - gm. Klembów
+142303 - gm. Klwów
+141705 - gm. Kołbiel
+141802 - gm. Konstancin-Jeziorna
+142602 - gm. Korczew
+143303 - gm. Korytnica
+142905 - gm. Kosów Lacki
+142603 - gm. Kotuń
+142507 - gm. Kowala
+140705 - gm. Kozienice
+142205 - gm. Krasne
+141104 - gm. Krasnosielc
+142206 - gm. Krzynowłoga Mała
+143702 - gm. Kuczbork-Osada
+141210 - gm. Latowicz
+141506 - gm. Lelis
+141403 - gm. Leoncin
+143204 - gm. Leszno
+141803 - gm. Lesznowola
+141303 - gm. Lipowiec Kościelny
+140903 - gm. Lipsko
+143304 - gm. Liw
+143703 - gm. Lubowidz
+143704 - gm. Lutocin
+142804 - gm. Młodzieszyn
+141105 - gm. Młynarze
+141908 - gm. Mała Wieś
+141605 - gm. Małkinia Górna
+140307 - gm. Maciejowice
+140706 - gm. Magnuszew
+141211 - gm. Mińsk Mazowiecki
+140308 - gm. Miastków Kościelny
+142104 - gm. Michałowice
+143306 - gm. Miedzna
+143003 - gm. Mirów
+142703 - gm. Mochowo
+140607 - gm. Mogielnica
+142604 - gm. Mokobody
+142605 - gm. Mordy
+141212 - gm. Mrozy
+143802 - gm. Mszczonów
+141508 - gm. Myszyniec
+142105 - gm. Nadarzyn
+142007 - gm. Naruszewo
+141404 - gm. Nasielsk
+140803 - gm. Nieporęt
+142805 - gm. Nowa Sucha
+142008 - gm. Nowe Miasto
+140608 - gm. Nowe Miasto nad Pilicą
+141909 - gm. Nowy Duninów
+141606 - gm. Nur
+143206 - gm. Ożarów Mazowiecki
+142402 - gm. Obryte
+142304 - gm. Odrzywół
+140206 - gm. Ojrzeń
+141003 - gm. Olszanka
+141509 - gm. Olszewo-Borki
+140207 - gm. Opinogóra Górna
+143004 - gm. Orońsko
+141706 - gm. Osieck
+141607 - gm. Ostrów Mazowiecka
+142009 - gm. Płońsk
+141106 - gm. Płoniawy-Bramura
+140403 - gm. Pacyna
+142606 - gm. Paprotnia
+140309 - gm. Parysów
+141804 - gm. Piaseczno
+140310 - gm. Pilawa
+142508 - gm. Pionki
+141004 - gm. Platerów
+140609 - gm. Pniewy
+143408 - gm. Poświętne
+142403 - gm. Pokrzywnica
+143602 - gm. Policzna
+141405 - gm. Pomiechówek
+142305 - gm. Potworów
+141805 - gm. Prażmów
+140102 - gm. Promna
+142207 - gm. Przasnysz
+142607 - gm. Przesmyki
+143603 - gm. Przyłęk
+142306 - gm. Przysucha
+142509 - gm. Przytyk
+142404 - gm. Pułtusk
+143803 - gm. Puszcza Mariańska
+141107 - gm. Różan
+142010 - gm. Raciąż
+141304 - gm. Radzanów
+140103 - gm. Radzanów
+141910 - gm. Radzanowo
+143804 - gm. Radziejowice
+143409 - gm. Radzymin
+142106 - gm. Raszyn
+140208 - gm. Regimin
+142906 - gm. Repki
+142704 - gm. Rościszewo
+142307 - gm. Rusinów
+142806 - gm. Rybno
+143503 - gm. Rząśnik
+140904 - gm. Rzeczniów
+141510 - gm. Rzekuń
+141108 - gm. Rzewnie
+141911 - gm. Słubice
+141912 - gm. Słupno
+142907 - gm. Sabnie
+143307 - gm. Sadowne
+140404 - gm. Sanniki
+141005 - gm. Sarnaki
+140804 - gm. Serock
+140707 - gm. Sieciechów
+142608 - gm. Siedlce
+143705 - gm. Siemiątkowo
+141213 - gm. Siennica
+140905 - gm. Sienno
+142705 - gm. Sierpc
+142609 - gm. Skórzec
+142510 - gm. Skaryszew
+140209 - gm. Sońsk
+141707 - gm. Sobienie-Jeziory
+140311 - gm. Sobolew
+142807 - gm. Sochaczew
+142011 - gm. Sochocin
+142908 - gm. Sokołów Podlaski
+140906 - gm. Solec nad Wisłą
+143504 - gm. Somianka
+141214 - gm. Stanisławów
+140104 - gm. Stara Błotnica
+141913 - gm. Stara Biała
+141006 - gm. Stara Kornica
+143207 - gm. Stare Babice
+141914 - gm. Staroźreby
+141608 - gm. Stary Lubotyń
+142909 - gm. Sterdyń
+143308 - gm. Stoczek
+143410 - gm. Strachówka
+140105 - gm. Stromiec
+141305 - gm. Strzegowo
+141306 - gm. Stupsk
+142610 - gm. Suchożebry
+141109 - gm. Sypniewo
+140405 - gm. Szczawin Kośc.
+142706 - gm. Szczutowo
+141110 - gm. Szelków
+141307 - gm. Szreńsk
+141609 - gm. Szulborze Wielkie
+143005 - gm. Szydłowiec
+141308 - gm. Szydłowo
+143411 - gm. Tłuszcz
+141806 - gm. Tarczyn
+143604 - gm. Tczów
+142808 - gm. Teresin
+140312 - gm. Trojanów
+141511 - gm. Troszyn
+141610 - gm. Wąsewo
+140611 - gm. Warka
+141708 - gm. Wiązowna
+142611 - gm. Wiśniew
+141310 - gm. Wiśniewo
+141309 - gm. Wieczfnia Kościelna
+140805 - gm. Wieliszew
+142308 - gm. Wieniawa
+142511 - gm. Wierzbica
+143309 - gm. Wierzbno
+140313 - gm. Wilga
+142406 - gm. Winnica
+143805 - gm. Wiskitki
+143412 - gm. Wołomin
+142612 - gm. Wodynie
+142512 - gm. Wolanów
+140106 - gm. Wyśmierzyce
+143505 - gm. Wyszków
+141915 - gm. Wyszogród
+142012 - gm. Załuski
+143506 - gm. Zabrodzie
+141406 - gm. Zakroczym
+142513 - gm. Zakrzew
+141611 - gm. Zaręby Kościelne
+142407 - gm. Zatory
+142707 - gm. Zawidz
+142613 - gm. Zbuczyn
+143605 - gm. Zwoleń
+140302 - m. Łaskarzew
+143801 - m. Żyrardów
+140201 - m. Ciechanów
+140301 - m. Garwolin
+140401 - m. Gostynin
+141701 - m. Józefów
+143401 - m. Kobyłka
+140801 - m. Legionowo
+141301 - m. Mława
+141101 - m. Maków Mazowiecki
+143402 - m. Marki
+141201 - m. Mińsk Mazowiecki
+140501 - m. Milanówek
+141401 - m. Nowy Dwór Mazowiecki
+141601 - m. Ostrów Mazowiecka
+146100 - m. Ostrołęka
+141702 - m. Otwock
+142001 - m. Płońsk
+146200 - m. Płock
+142101 - m. Piastów
+142501 - m. Pionki
+140502 - m. Podkowa Leśna
+142102 - m. Pruszków
+142201 - m. Przasnysz
+142002 - m. Raciąż
+146300 - m. Radom
+146400 - m. Siedlce
+142701 - m. Sierpc
+142801 - m. Sochaczew
+142901 - m. Sokołów Podlaski
+141215 - m. Sulejówek
+143301 - m. Węgrów
+143403 - m. Ząbki
+143404 - m. Zielonka
+146505 - Mokotów
+146506 - Ochota
+146508 - Praga-Północ
+146507 - Praga-Południe
+146509 - Rembertów
+146511 - Targówek
+146512 - Ursus
+146513 - Ursynów
+146517 - Włochy
+146514 - Wawer
+146515 - Wesoła
+146516 - Wilanów
+146518 - Wola
